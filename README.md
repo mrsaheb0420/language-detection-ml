@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Language Detection (ML)
 
 # 1. INTRODUCTION
@@ -135,3 +136,7 @@ Next steps
 - Replace the tiny sample dataset with larger labeled corpora per language.
 - Optionally integrate fastText model for highest offline accuracy.
 - Add a backend selection preference and caching for performance.
+=======
+# language-detection-ml
+A machine learning–based multilingual text detection system using Python, Flask, and scikit-learn. Supports 100+ languages with special focus on 22 Indian languages, real-time web UI, REST API, and optional translation using Google Translate and fastText integration.
+>>>>>>> b2d53e116b03622214c492cb0b8f9a0f3c111397
